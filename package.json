@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/badriabdi/Friend-finder#readme",
   "dependencies": {
+    "express": "^4.16.4",
     "node": "^11.13.0"
   }
 }
